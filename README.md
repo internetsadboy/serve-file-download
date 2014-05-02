@@ -1,6 +1,6 @@
 ### serve-file-download
 
-basically a rip from @raynos' http download [example] (https://github.com/Raynos/http-framework/tree/master/examples/downloads) - I like reuse, it's on npm :metal:
+basically a rip from @raynos' http download ![example](https://github.com/Raynos/http-framework/tree/master/examples/downloads) - I like reuse, it's on npm :metal:
 
 ### installation 
 

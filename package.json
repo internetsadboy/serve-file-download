@@ -1,6 +1,6 @@
 {
   "name": "serve-file-download",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "serves static-file downloads ",
   "main": "serve-file-download.js",
   "scripts": {
