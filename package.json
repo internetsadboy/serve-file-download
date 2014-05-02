@@ -1,0 +1,29 @@
+{
+  "name": "serve-file-download",
+  "version": "0.0.0",
+  "description": "serves static-file downloads ",
+  "main": "serve-file-download.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghostsnstuff/serve-file-download.git"
+  },
+  "keywords": [
+    "file",
+    "download",
+    "server",
+    "http",
+    "file-download"
+  ],
+  "dependencies": {
+    "filed":"*"
+  },
+  "author": "jared <jaredhalpert90@gmail.com> (http://jaredhalpert.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostsnstuff/serve-file-download/issues"
+  },
+  "homepage": "https://github.com/ghostsnstuff/serve-file-download"
+}
